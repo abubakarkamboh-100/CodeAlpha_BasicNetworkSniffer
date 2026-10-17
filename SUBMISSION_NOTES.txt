@@ -1,0 +1,1 @@
+CodeAlpha Task 1 package. Demo screenshot is SYNTHETIC, not a real capture. Run and document a live authorized capture before claiming live testing. Upload folder contents to repository CodeAlpha_BasicNetworkSniffer.

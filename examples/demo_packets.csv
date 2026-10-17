@@ -1,0 +1,4 @@
+time,source,destination,protocol,source_port,destination_port,length,payload_preview_hex
+2026-10-17T12:00:01,192.0.2.10,198.51.100.20,TCP,51000,443,60,
+2026-10-17T12:00:02,192.0.2.10,198.51.100.53,UDP,52000,53,72,64656d6f
+2026-10-17T12:00:03,198.51.100.20,192.0.2.10,ICMP,,,84,
